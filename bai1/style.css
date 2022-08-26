@@ -1,0 +1,26 @@
+.logo {
+    display: flex;
+}
+.menu{
+    background-color:#C83B4C;
+    padding: 0%;
+
+}
+.menu ul li:hover{
+    background-color: #B43544;
+}
+.menu ul{
+    list-style-type: none;
+    display: flex;
+    text-transform: capitalize;
+    /* padding-left: 0%; */
+    margin: 0%
+}
+.menu ul li{
+    padding: 10px;
+    color: azure;
+}
+.ml
+{
+    margin-left: 50px;
+}
