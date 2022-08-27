@@ -1,0 +1,23 @@
+body{
+    background-color: #FFFFCC;
+    color: black;
+}
+h2{
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: center;
+}
+#navigation{
+    margin-left: 25%;
+}
+ul{
+    list-style:none;
+    display: flex;
+
+}
+li{
+    padding: 5%;
+    background-color: #88DA88;
+    margin: 5%;
+    text-align: center;
+}
