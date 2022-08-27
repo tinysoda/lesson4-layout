@@ -8,6 +8,7 @@
 }
 .menu ul li:hover{
     background-color: #B43544;
+    cursor: pointer;
 }
 .menu ul{
     list-style-type: none;
@@ -42,4 +43,7 @@ h3{
 }
 .sidebar{
     padding-left: 30%;
+}
+.article{
+    width: 600px;
 }
