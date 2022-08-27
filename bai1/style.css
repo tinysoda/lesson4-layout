@@ -24,3 +24,14 @@
 {
     margin-left: 50px;
 }
+h2{
+    text-transform: uppercase;
+}
+.article ul li{
+    display: flex;
+}
+h3{
+    margin-left: 50px;
+    margin-top: 0%;
+    margin-bottom: 10%;
+}
